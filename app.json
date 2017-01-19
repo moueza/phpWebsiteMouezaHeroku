@@ -1,0 +1,17 @@
+{
+  "name": "phpWebsiteMouezaHeroku",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/apache2"
+    }
+  ]
+}
